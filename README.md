@@ -1,8 +1,4 @@
 # CSE111
-website
-<br>
-author-Anurag
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
